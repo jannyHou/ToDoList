@@ -1,0 +1,15 @@
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+	padding: 20px 0;
+	background: #elelel;
+}
+
+.container {
+	width: 60%;
+	max-width: 300px;
+	margin: 0 auto;
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	padding: 20px;
+}
